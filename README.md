@@ -118,10 +118,8 @@ flutter run
 👨‍💻 Autor
 Laradev — Desarrollador Full Stack
 
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 
 <div align="center">
 ⭐ Si te gustó este proyecto, dale una estrella ⭐
 
-</div> ```
+</div> 
